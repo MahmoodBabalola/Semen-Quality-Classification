@@ -6,5 +6,5 @@ Based on the results of this research, it appears that the use of SMOTE and Tome
 
 Dataset Link
 UCI: http://archive.ics.uci.edu/ml/datasets/Fertility
-Kaggle: https://www.kaggle.com/datasets/saharpourahmad/fertility-data-set
+Kaggle: https://www.kaggle.com/datasets/gabbygab/fertility-data-set
 
